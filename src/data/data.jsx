@@ -3,7 +3,7 @@
 export const data = [
     { 
         id : 1,
-        question : 'When and how it should be used?',
+        question : 'When and how it should be used? And Why?',
         answer : {
             titleFirst : "Show/Hide operation",
             textFirst : "An accordion always contains the category title, an expanded and a collapsed state, an icon indicating expansion, and the spacing between them.",
