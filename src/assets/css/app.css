@@ -1,0 +1,100 @@
+.App {
+    background: #fff;
+    padding: 87px 124px 107px;
+    border-radius: 30.6px;
+    -webkit-border-radius: 30.6px;
+    -moz-border-radius: 30.6px;
+    -ms-border-radius: 30.6px;
+    -o-border-radius: 30.6px;
+}
+
+.heading {
+    margin-bottom: 55px;
+}
+
+.h1 {
+    font-weight: 700;
+    font-size: 30.6px;
+    line-height: 38px;
+    color: #10182F;
+    margin-bottom: 15px;
+}
+
+.h3 {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    color: #10182F;
+}
+
+.h5 {
+    font-weight: 600;
+    font-size: 16.2px;
+    line-height: 20px;
+    color: #242E4C;
+}
+
+.h6 {
+    font-weight: 700;
+    font-size: 16.2px;
+    line-height: 22px;
+    color: #545D7A;
+}
+
+.p {
+    font-weight: 400;
+    font-size: 14.4px;
+    line-height: 22px;
+    color: #545D7A;
+}
+
+.accordion-heading {
+    display: flex;
+    align-items: center;
+}
+
+.accordion-body{
+    margin-top: 48px;
+    padding-bottom: 25px;
+    margin-left: calc((100% / 24)*2);
+}
+
+.accordion-body .h6{
+    margin-bottom: 8.5px;
+}
+
+.accordion-body .h6:last-of-type{
+    margin-top: 40px;
+}
+
+.accordion .icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+    background: #10182F;
+    color: #FFF;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    -ms-border-radius: 100%;
+    -o-border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item {
+    border-bottom: 0.9px solid #DAE1F5;
+    padding-bottom: 20px;
+    padding-left: 16px;
+    margin-bottom: 22px;
+}
+
+.item:last-child {
+    margin-bottom: 0;
+}
+
+.read-more{
+    text-align: justify;
+    margin-top: 30px;
+}
