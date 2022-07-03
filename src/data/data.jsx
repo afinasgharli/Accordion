@@ -1,3 +1,5 @@
+// Accordion data
+
 export const data = [
     { 
         id : 1,

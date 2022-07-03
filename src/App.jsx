@@ -12,7 +12,7 @@ const App = ()=>{
         <Row className="d-flex justify-content-center">
           <Col lg={9}>
             <div className="App">
-            <Heading title={"The Accordion with React Js"} subtitle={'The accordion is a graphical control element comprising a vertically stacked list of items, such as labels or thumbnails. Each item can be "expanded" or "collapsed" to reveal the content associated with that item.'} />
+            <Heading title={"The Accordion"} subtitle={'The accordion is a graphical control element comprising a vertically stacked list of items, such as labels or thumbnails. Each item can be "expanded" or "collapsed" to reveal the content associated with that item.'} />
             <Accordion/>
             </div>
           </Col>
